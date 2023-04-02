@@ -2,7 +2,7 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
-# See also here https://forum.unity.com/threads/whats-the-usersettings-directory.754436/
+# See also here https://forum.unity.com/threads/whats-the-usersettings-directory.754436/ 
 #
 [Ll]ibrary/
 [Tt]emp/
